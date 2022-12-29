@@ -1,0 +1,13 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shopServer.js",
+  "scripts": {
+    "start": "node shopServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node","build"],
+  "author": "",
+  "license": "ISC"
+}

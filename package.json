@@ -2,9 +2,9 @@
   "name": "dummy",
   "version": "1.0.0",
   "description": "",
-  "main": "shopServer.js",
+  "main": "shopServer1.js",
   "scripts": {
-    "start": "node shopServer.js",
+    "start": "node shopServer1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["node","build"],
